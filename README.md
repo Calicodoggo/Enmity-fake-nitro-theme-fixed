@@ -1,2 +1,4 @@
-# Enmity-fake-nitro-theme-fixed
-Just a rerelease of ef4s fake nitro them but fixed
+# FreeNitroTheme
+
+## Install
+https://raw.githubusercontent.com/m4fn3/FreeNitroTheme/master/dist/FreeNitroTheme.js
